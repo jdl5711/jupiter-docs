@@ -1,0 +1,59 @@
+# Overview
+
+This is a developer community FAQ, How-To and more resources around the Jupiter Token and its applications.
+
+Use the links here to get more information abouot the [Jupiter Token](https://gojupiter.tech/) and its dApps. 
+
+Created by [Sigwo Technologies, LLC](https://sigwo.com/). 
+
+## Links and Resources
+Information about the wrapped tokens on Etherium (ETH) and Binance Smart Chain (BSC).
+
+### General Information
+* [Jupiter's website](https://gojupiter.tech/)
+* Charts
+  * [WETH/JUP](https://www.dextools.io/app/uniswap/pair-explorer/0x2dfee82f4250dd3f3c6811c5d2926ede8b37a7d5)
+  * BSC - need link for this
+
+### How-to Articles
+* [Token Fundamentals](/Fundamentals/)
+* [Gateways](/Fundamentals/gateways/)
+* [Liquidity and Farming](/Fundamentals/liquidity_and_farming/)
+
+### dApps and Tools
+
+#### Leda
+
+Create, sell or collect digital items secured with blockchain
+
+  *  [Information](/Projects/leda/)
+  *  [Website](https://leda.gojupiter.tech/) Alpha version - Create, sell or collect digital items secured with blockchain
+
+#### Metis
+
+A decentralized chat app built on Gravity and curated by Sigwo Technologies. Metis is a decentralized chat application. Think Telegram, but 100% private, decentralized, and fully encrypted GROUP messaging.
+
+  * [Web App](https://metis.gojupiter.tech/) - In process of being updated to new GUI
+  * iOS App - to be released soon
+
+#### fndr
+
+Flexible and secure (AES-256 bit encryption) password manager that gives you complete control of your account information. fndr supports customized connectors that tell fndr where to store your encrypted account information.
+
+  * [CLI Code Repository](https://github.com/whatl3y/fndr)
+  * [Front End Code Repository](https://github.com/whatl3y/fndr-web)
+
+#### jupiter-git 
+Git server to support a backend of storing repos and files on the Jupiter blockchain.
+
+  * [Website](https://git.gojupiter.tech/)
+  * [Information](/Projects/git/)
+  * [Code repository](https://github.com/whatl3y/jupiter-git)
+
+
+### Make your own dApps
+
+* [Gravity](/Gravity) - Blockchain-powered full-stack web development framework.  Allows for quick app development with data storage on the Jupiter blockchain.  Effectivly encrypts and backs up sensitive information.
+* [Jupiter Node SDK](https://github.com/whatl3y/jupiter-node-sdk) - A thin wrapper over the Jupiter blockchain API with some utility functions to make doing common tasks like fetching data and encrypting/decrypting data easy.
+* [jupiter-fs](https://github.com/whatl3y/jupiter-fs) - A small file system implementation for the Jupiter blockchain.  File storage, decentralized!
+* [Jupiter API Console](https://jpr.gojupiter.tech/test) - Test out the API.  Use this to roll your own SDK in any language you want.
